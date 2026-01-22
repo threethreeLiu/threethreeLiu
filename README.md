@@ -28,9 +28,7 @@ I am ThreeThree Liu 🙋🏻‍♂️, a photographer, cyclist, full-stack devel
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=threethreeLiu&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=threethreeLiu) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=threethreeLiu)
-
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=threethreeLiu)
+|
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
